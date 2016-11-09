@@ -1,0 +1,22 @@
+html {
+  font-family: sans-serif;
+  background-color: #B4DAFF;
+  font-size: 1em;
+}
+.wrap {
+  box-sizing: border-box;
+  padding: 2% 5%;
+  background-color: #eaf5ff;
+  width: 95%;
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 20px;
+  box-shadow: 0 0 10px #222;
+}
+h1 {
+  font-size: 2em;
+  border-bottom: 1px dashed black;
+}
+h2 {
+  font-size: 1.5em
+}
